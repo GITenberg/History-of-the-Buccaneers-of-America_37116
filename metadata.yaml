@@ -1,0 +1,31 @@
+_repo: History-of-the-Buccaneers-of-America_37116
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burney, James
+    birthdate: 1750
+    deathdate: 1821
+    gutenberg_agent_id: '38660'
+    url: http://www.gutenberg.org/2009/agents/38660
+description: ''
+gutenberg_issued: '2011-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37116'
+  lccn: 02015925
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buccaneers'
+- !lcsh 'British -- Caribbean Area -- History'
+- !lcsh 'Caribbean Area -- History -- To 1810'
+- !lcsh 'French -- Caribbean Area -- History'
+- !lcsh 'Pirates -- Caribbean Area -- History'
+- !lcc 'F2155'
+title: History of the Buccaneers of America
+url: http://www.gutenberg.org/ebooks/37116
