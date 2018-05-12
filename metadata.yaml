@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38660'
     url: http://www.gutenberg.org/2009/agents/38660
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37116#History-of-the-Buccaneers-of-America
 gutenberg_issued: '2011-08-17'
 gutenberg_type: Text
 identifiers:
